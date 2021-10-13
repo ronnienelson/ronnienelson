@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronnienelson
 - 👀 I’m interested in ... become a self taught web developer
-- 🌱 I’m currently learning ... HTML, Java, and CSS
+- 🌱 I’m currently learning ... React, Node.Js, MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
